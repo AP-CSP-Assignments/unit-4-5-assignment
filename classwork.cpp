@@ -1,5 +1,6 @@
-#include <iostream>  // std::cin, std::cout, std::getline
-#include <string>    // std::string
+#include <iostream>  // std::cin, std::cout
+#include <string>    // std::string, std::getline
+#include <vector>    // std::vector
 
 int main()
 {
