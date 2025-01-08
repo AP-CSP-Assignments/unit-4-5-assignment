@@ -20,6 +20,9 @@ g++ classwork.cpp -o output
 ./output
 ```
 
+# Instructions
+Do the following in the file named `homework.cpp`
+
 ## Task 1
 Create a list (vector) of ints, doubles, and strings.  Make sure each list has at least 5 elements in it.
 
